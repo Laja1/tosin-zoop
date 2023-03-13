@@ -1,23 +1,24 @@
 import React, { Component } from 'react'
 import Header from './components/Header'
-import Body from './components/Body'
-import Body2 from './components/Body2'
-import Body3 from './components/Body3'
-import Body4 from './components/Body4'
+import Seection from './components/Section1'
+import Seection2 from './components/Seection2'
+import Seection3 from './components/Section3'
+import Seection4 from './components/Section4'
 import Footer from './components/Footer'
+import Form from './components/Form'
 
 export default class App extends Component {
   render() {
     return (
       <div><Header />
-      <Body />
+      <Seection />
       
-      <div className='container'><Body2 />
-      <Body3 />
-      <Body4 />
+      <div className='container'><Seection2 />
+      <Seection3 />
+      <Seection4 />
       <br /><br/><Footer />
       </div>
-   
+
       </div>
     )
   }

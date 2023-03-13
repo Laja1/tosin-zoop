@@ -77,12 +77,12 @@ export default class Footer extends Component {
         <h4 style={{color: "#322744", fontFamily:"Arial, sans-serif, Helvetica", fontSize:"18px", }}>Sitemap</h4>
       </div>
       
-      <div class="col" > <BsFacebook />  
-       <BsTwitter />
-       <BsLinkedin />
-       <BsInstagram />
-       <BsYoutube />
-        <BsYoutube />  </div>
+      <div class="col" > <BsFacebook style={{fontSize:"20px"}}/>  
+       <BsTwitter style={{fontSize:"20px"}}/>
+       <BsLinkedin style={{fontSize:"20px"}}/>
+       <BsInstagram style={{fontSize:"20px"}}/>
+       <BsYoutube style={{fontSize:"20px"}}/>
+         </div>
     
     </div>
   </div>

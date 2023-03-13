@@ -11,9 +11,9 @@ export default class Header extends Component {
       <ul  class="hide-on-med-and-down"> <li><a class="heads-text">For Sale</a></li> 
        <li> <a class="heads-text">To Rent</a></li>
        <li> <a class="heads-text">House Prices</a> </li>
-       <li><a class="heads-text">Remortgage</a></li>
-       <li><a class="heads-text">Agent Valuation</a></li>
-       <li> <a class="heads-text">Instant Valuation</a></li> </ul>  
+       <li><a  class="heads-text">Remortgage</a></li>
+       <li><a  class="heads-text">Agent Valuation</a></li>
+       <li> <a  class="heads-text">Instant Valuation</a></li> </ul>  
         <ul id="nav-mobile" class="right hide-on-med-and-down">
           <li><a class="head-text" href="sass.html">My Home</a></li>
           <li><a class="head-text" href="badges.html">Saved</a></li>

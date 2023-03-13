@@ -15,7 +15,7 @@ export default class Body3 extends Component {
 		<div class="picture picture-1"><img  src={a} alt="logo" /></div>
         <div style={{fontWeight:"400px", fontSize:"24px",fontFamily:"Arial, Helvetica, sans-serif", margin:"0 0 0 20px"}} class="picture-text">What is to build-to-rent? <br />  <hr /> </div>
         <p class="card-text" style={{fontWeight:"400px", fontSize:"16px",fontFamily:"Arial, Helvetica, sans-serif", margin:"0 0 0 20px"}}><small class="text-muted">06 MARCH 2023</small></p>
-</div>
+</div>  
 <div class="picture-container">
 		<div class="picture picture-1"><img  src={b} alt="logo" /></div>
         <div style={{fontWeight:"400px", fontSize:"24px",fontFamily:"Arial, Helvetica, sans-serif", margin:"0 0 0 20px"}} class="picture-text">The true cost of upgrading an older<br /> home to new build energy standards</div>
